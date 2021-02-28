@@ -26,7 +26,7 @@ On my last website, I was already starting to talk about things, but I didn't re
 
 The last things were about
 
-> I saw this documentary "THE SOCIAL DILEMMA" about the psychology of social media. And I wish more people would be aware of this. Here is the [Trailer on Youtube](https://www.youtube.com/rvg0eY_Ls4Y 'Click me, this is a link.')
+> I saw this documentary "THE SOCIAL DILEMMA" about the psychology of social media. And I wish more people would be aware of this. Here is the [Trailer on Youtube](https://youtu.be/rvg0eY_Ls4Y 'Click me, this is a link.')
 
 and
 
