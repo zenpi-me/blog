@@ -6,14 +6,15 @@ description: Oh nice, Chris has a new blog post!
 
 ## Hi
 
-I'm Chris. I work as a software developer in Berlin. But I think this is not super important. More important is, I want to sort my thoughts and I think this format might be nice!
+I'm Chris. I work as a software developer in Berlin. But the important thing is, I want to sort my thoughts and I think this format might allow me to do so!
 
 Also important is, how I develop myself. How I improve my mindset and how I try to improve my little world.
 
-I'm reading a lot and overall have a lot of input. This is great, and from now on I can have also some output here. I will talk about whatever I want but my interests are for example (in no order what so ever):
+I'm reading a lot and overall have a lot of input. This is great, and from now on I can also have some output here. I will talk about whatever I want but my interests are for example (in no order what so ever):
 
 - Japan
 - Technology (AI / Cryptos / React)
+- Games 🎮
 - Psychology
 - Meditation
 - Movies / Series / Anime
