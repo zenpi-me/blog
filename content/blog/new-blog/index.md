@@ -13,7 +13,7 @@ Also important is, how I develop myself. How I improve my mindset and how I try 
 I'm reading a lot and overall have a lot of input. This is great, and from now on I can have also some output here. I will talk about whatever I want but my interests are for example (in no order what so ever):
 
 - Japan
-- Technology (AI / Crypros / React)
+- Technology (AI / Cryptos / React)
 - Psychology
 - Meditation
 - Movies / Series / Anime
@@ -31,6 +31,7 @@ The last things were about
 and
 
 > It is so much easier to help someone else, than to help yourself. But in the end: "Sometimes the best way to solve your own problems, is to help someone else" ~ Uncle Iroh
-> I was helping others, by creating a Wordpress Website: [OASA](https://oasa.berlin/ 'Click me, this is a link.')
+>
+> I was helping others, by creating a WordPress Website: [OASA](https://oasa.berlin/ 'Click me, this is a link.')
 
 I am looking forward to share my thoughts!

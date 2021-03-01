@@ -7,9 +7,9 @@ module.exports = {
     },
     description: `Not sure about that one.`,
     siteUrl: `https://www.zenpi.me`,
-    /* social: {
-      twitter: `kylemathews`,
-    }, */
+    social: {
+      twitter: `@zenpi_me`,
+    },
   },
   plugins: [
     {
