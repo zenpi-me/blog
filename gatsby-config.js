@@ -60,11 +60,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Zenpi Blog`,
+        short_name: `Zenpi`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#282c35`,
+        theme_color: `#f18943`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
