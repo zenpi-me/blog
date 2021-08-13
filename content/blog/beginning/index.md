@@ -4,9 +4,9 @@ date: '2021-05-23T20:00:00.000Z'
 description: How to know where to go?
 ---
 
-One of the really important principles that I know and that should guide me through my life is "Begin with the end in mind". I got this from the book `7 habits of highly effective people` (one of the best books ever, really.) and just earlier today I was reminded of the power of this first principle.
+One really important principle that I know and that should guide me through my life is "Begin with the end in mind". I got this from the book `7 habits of highly effective people` (one of the best books ever, really.) and just earlier today I was reminded of the power of this first principle.
 
-Sometimes I have days, where I have so much time that I could focus on my own stuff and I could create something beautiful that would make the world better. I can follow my dreams and I am in a position, where I could do almost everything that I want. The problem is just.. what do I want?
+Sometimes I have days, where I have so much time to focus on my own stuff and I could create something beautiful that would make the world better. I can follow my dreams and I am in a position, where I could do almost everything that I want. The only problem is just.. what do I want?
 
 So in the end I am just sitting in my room, thinking that I am wasting my time, because I don't even know, where to begin. I was reading to just start somewhere and learn from small projects and fail a few times. Just so you get more input and new perspectives. Sounds nice, and naturally I also have 99 unfinished projects... but I couldn't really focus on things that didn't really matter. So my motivation for small learning projects fades away pretty quickly.
 
